@@ -16,8 +16,8 @@
 
  <h2>:link:Посилання на виконані лабораторні роботи</h2>
 <ol>
-<li><a href="https://colab.research.google.com/drive/1gHA3gICnGi-V7AdwzJpFCPuEFJKP8Vel">Вступ в ЕМПІ</a></li>
-<li><a href="https://colab.research.google.com/drive/1qBU1qaiPNDMTQaL3IxBArjCP1ncxsb9T">Візуалізація даних</a></li>
-<li><a href="https://colab.research.google.com/drive/1uFwbhRCg6vplVIe3WcyRO6L0mYjtPsLh">Порівняння середніх</a></li>
-<li><a href="https://colab.research.google.com/drive/14fYl-un2QGAuVChZRjgXShjQsJmnPB4d">Кореляція та регресія</a></li>
+<li><a href="https://colab.research.google.com/drive/1-G1zAv-Hzi4Z3kLnVo3FB8mHdpH2w_j7">Вступ в ЕМПІ</a></li>
+<li><a href="https://colab.research.google.com/drive/1ol3u8DkknEk-B-oVzsOv8Oyget6WJ69I">Візуалізація даних</a></li>
+<li><a href="https://colab.research.google.com/drive/1H0gH71pmM8VyK10We8pI2yxd2vl-J2Hr">Порівняння середніх</a></li>
+<li><a href="https://colab.research.google.com/drive/17PpXwb-w4hBNv14otEXHDwldcoB-5Tb8">Кореляція та регресія</a></li>
 </ol>

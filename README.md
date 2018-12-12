@@ -14,7 +14,7 @@
 <br/>
 І з малих зауважень: не сподобалося збирати практичні завдання для лабораторних з "to do" по всій лекції. Було б класно розсмістити їх окремим блоком, як "Контрольні запитання".
 
- <h2>:school_satchel: Посилання на виконані лабораторні роботи</h2>
+ <h2>:link:Посилання на виконані лабораторні роботи</h2>
 <ol>
 <li><a href="https://colab.research.google.com/drive/1gHA3gICnGi-V7AdwzJpFCPuEFJKP8Vel">Вступ в ЕМПІ</a></li>
 <li><a href="https://colab.research.google.com/drive/1qBU1qaiPNDMTQaL3IxBArjCP1ncxsb9T">Візуалізація даних</a></li>
